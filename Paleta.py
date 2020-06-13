@@ -29,7 +29,7 @@ def seleccion():
         color = "#FFFFFF"
 
 root = Tk()
-root.geometry("300x160")
+root.geometry("330x160")
 root.title("Paleta De Colores")
 root.resizable(0, 0)
 
